@@ -1,4 +1,6 @@
 # PostgreSQL Automatic Failover
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fgpaulavicius%2FPAF.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fgpaulavicius%2FPAF?ref=badge_shield)
+
 
 High-Availibility for Postgres, based on industry references Pacemaker and
 Corosync.
@@ -82,3 +84,7 @@ can set:
 For a demonstration about how to setup a cluster, see
 [http://clusterlabs.github.io/PAF/documentation.html](http://clusterlabs.github.io/PAF/documentation.html).
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fgpaulavicius%2FPAF.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fgpaulavicius%2FPAF?ref=badge_large)
